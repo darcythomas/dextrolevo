@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://host.com/" />
-	<id>http://host.com/</id>
-	<title>Your Book Title</title>
+	<link rel="self" href="http://dextrolevo.com/" />
+	<id>http://dextrolevo.com/</id>
+	<title>Dextro Levo Ltd.</title>
 	<rights>2017</rights>
-	<updated>2017-07-09T10:23:42Z</updated>
-	<logo>http://host.com/images/banner.jpg</logo>
-	<subtitle>A short description of your book.</subtitle>
+	<updated>2017-07-09T21:17:27Z</updated>
+	<logo>http://dextrolevo.com/images/banner.jpg</logo>
+	<subtitle>Software and Business consulting</subtitle>
 	<entry>
-		<link href="http://host.com/blog/first-post" />
-		<link rel="enclosure" type="image" href="http://host.com/images/banner.jpg" />
-		<id>http://host.com/blog/first-post</id>
+		<link href="http://dextrolevo.com/blog/first-post" />
+		<link rel="enclosure" type="image" href="http://dextrolevo.com/images/banner.jpg" />
+		<id>http://dextrolevo.com/blog/first-post</id>
 		<title>First Post</title>
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;This is a new blog post.&lt;/p&gt;

@@ -1,3 +1,3 @@
-Title: Custom Page
+Title: Contact
 ---
-You can add as many custom pages as you want.
+Email: <a href="wyam@dextrolevo.com">wyam@dextrolevo.com</a>
