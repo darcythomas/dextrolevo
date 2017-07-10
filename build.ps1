@@ -1,9 +1,5 @@
 
 
 
- wyam -r BookSite -t Velocity
+ wyam -r BookSite -t Velocity -o .\docs
  
-  Remove-Item .\docs\ -Recurse  -ErrorAction Ignore
-  Copy-Item .\output .\docs -Recurse 
-  Remove-Item .\output\ -Recurse
-  Copy-Item .\CNAME .\docs\CNAME
